@@ -11,4 +11,4 @@ jobs:
       uses: chrisreddington/hugocrossposter@main
       with:
         directoryPath: './content/'
-        recursiveSubdirectories: 'true'
+        recursiveSubdirectories: 'true' #dummycomment
