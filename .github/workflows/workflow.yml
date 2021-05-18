@@ -10,5 +10,5 @@ jobs:
       id: dotnet-code-metrics
       uses: chrisreddington/hugocrossposter@main
       with:
-        directoryPath: './content/episode'
+        directoryPath: './content/'
         recursiveSubdirectories: 'true'
