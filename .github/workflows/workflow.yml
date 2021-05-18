@@ -1,10 +1,5 @@
 name: Master
-on: 
-  push:
-      branches:
-        - master
-      paths-ignore:
-        - "podcast_audio/**"
+on: push
 jobs:
   build:
     runs-on: ubuntu-latest
