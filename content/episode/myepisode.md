@@ -1,6 +1,6 @@
 ---
 Author: chrisreddington
-Description: "I'm sat writing this blog post about 4 months after writing my 2021 kick off blog post. My aim for 2021 was to focus on one goal - contributing back into the technical community."
+Description: "I'm sat writing this blog post about 4 months after writing my 2021 kick off blog post. My aim for 2021 was to focus on one goal - contributing back into the technical community!"
 PublishDate: "2021-05-17T09:00:00Z"
 image: img/cloudwithchrislogo.png
 date: "2021-05-17T09:00:00Z"
