@@ -11,3 +11,4 @@ jobs:
       uses: chrisreddington/hugocrossposter@main
       with:
         directoryPath: './content/episode'
+        recursiveSubdirectories: 'true'
