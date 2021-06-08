@@ -12,3 +12,6 @@ jobs:
       with:
         directoryPath: './content/'
         recursiveSubdirectories: 'true'
+        devtoToken: ${{ secrets.DEVTO_INTEGRATION_TOKEN }}
+        mediumAuthorId: ${{ secrets.MEDIUM_AUTHOR_ID }}
+        mediumToken: ${{ secrets.MEDIUM_TOKEN }}
